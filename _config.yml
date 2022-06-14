@@ -1,0 +1,18 @@
+remote_theme: PaulSt/eleven
+theme: eleven-theme
+
+eleven:
+  date_format: "%b %d, %Y"
+  logo:  "assets/logo.png" 
+
+permalink: post/:title
+url: "https://thewittekind.github.io"
+title: "the wittekind"
+description: "  a cooool band yeahh"
+excerpt_separator: <!--more-->
+page_excerpts: true
+
+collections:
+  examplecollection:
+    output: true
+    title: "Performances"
