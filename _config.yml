@@ -10,7 +10,7 @@ url: "https://thewittekind.github.io"
 title: "the wittekind"
 description: "  a cooool band yeahh"
 excerpt_separator: <!--more-->
-page_excerpts: true
+page_excerpts: false
 
 collections:
   examplecollection:
