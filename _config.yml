@@ -8,9 +8,9 @@ eleven:
 permalink: post/:title
 url: "https://thewittekind.github.io"
 title: "the wittekind"
-description: "  a cooool band yeahh"
+description: "  a cooool band yeahh <br> @ aix-la-chapelle <br> depuis 20xx"
 excerpt_separator: <!--more-->
-page_excerpts: false
+page_excerpts: true
 
 collections:
   examplecollection:

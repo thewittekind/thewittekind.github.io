@@ -1,7 +1,4 @@
-I"J<p>“<strong><em>genre</em></strong>”</p>
-<ul>
-  <li>{hard, indie, blues} rock</li>
-</ul>
+I"4<p>“<strong><em>genre</em></strong>”  {hard, indie, blues} rock</p>
 
 <p>“<strong><em>member</em></strong>”</p>
 <ul>
@@ -24,5 +21,4 @@
   <li><code class="language-plaintext highlighter-rouge">drum</code>: tongxin qin</li>
   <li><code class="language-plaintext highlighter-rouge">keyboard</code>: junjie liang</li>
 </ul>
-
 :ET

@@ -1,12 +1,21 @@
 ---
 layout: block
-title: upcoming gig
+title:
 ---
-@ 1st & 2nd jul 2022
 
-@ frankfurt am main, germany, earth
-<!--more-->
+"***genre***"  {hard, indie, blues} rock
 
-+++ "***repertoire***"
-- piece one
-- piece two
+"***member***"  
+- `vocal & frontman`: yuqing li
+- `vocal (backing)`:
+  -  wenling zhou 
+  -  tianyi sun
+- `guitar lead`: dongli zhang
+- `guitar rhythm`: zonglin li
+- `bass`: wanyu wu
+- `drum`: linke zhu
+- `keyboard`: yuli wu
+  
+"***alumni***"  
+- `drum`: tongxin qin
+- `keyboard`: junjie liang
