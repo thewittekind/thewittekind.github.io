@@ -1,19 +1,4 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>about wittekind the band</title>
-    <link rel="stylesheet" href="/assets/css/main.css" />
-    <link rel="shortcut icon" href="/assets/logo.png" />
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-  </head>
-  <main class="page-content" aria-label="Content">
-<div class="w">
-&nbsp; <a href="/">^</a>
-</div>
-<div class="box">
-    <h1>about wittekind the band</h1>
-    <p>“<strong><em>genre</em></strong>”</p>
+I"J<p>“<strong><em>genre</em></strong>”</p>
 <ul>
   <li>{hard, indie, blues} rock</li>
 </ul>
@@ -40,8 +25,4 @@
   <li><code class="language-plaintext highlighter-rouge">keyboard</code>: junjie liang</li>
 </ul>
 
-
-</div>
-</main>
-
-</html>
+:ET

@@ -1,8 +1,0 @@
-I"Í<p>(Template.. Need to be updated) You can also only preview content of blocks by using <code class="language-plaintext highlighter-rouge">&lt;!--more-&gt;</code>
-and using the following setting your <code class="language-plaintext highlighter-rouge">_config.yml</code>:</p>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>excerpt_separator: &lt;!--more-&gt;
-page_excerpts: true
-</code></pre></div></div>
-
-:ET
