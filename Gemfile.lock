@@ -1,3 +1,9 @@
+PATH
+  remote: .
+  specs:
+    eleven-theme (0.0.0)
+      jekyll (~> 4.2)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -5,8 +11,6 @@ GEM
       public_suffix (>= 2.0.2, < 5.0)
     colorator (1.1.0)
     concurrent-ruby (1.1.10)
-    eleven-theme (0.2.5)
-      jekyll (~> 4.2)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
@@ -64,8 +68,9 @@ PLATFORMS
   arm64-darwin-21
 
 DEPENDENCIES
-  eleven-theme
-  webrick
+  eleven-theme!
+  jekyll (~> 4.2)
+  webrick (~> 1.7)
 
 BUNDLED WITH
    2.3.15
