@@ -15,4 +15,4 @@ page_excerpts: true
 collections:
   examplecollection:
     output: true
-    title: "Performances"
+    title: "archive"

@@ -1,6 +1,6 @@
 html, body { background: white; }
 
-body { max-width: 42em; margin: auto; margin-top: 35px; font-family: monospace; line-height: 1.1; }
+body { max-width: 40em; margin: auto; padding-left: 5px; padding-right: 5px; margin-top: 35px; margin-bottom: 35px; font-family: monospace; line-height: 1.1; }
 
 .post-meta { text-align: right; }
 
@@ -26,7 +26,7 @@ img.logo { height: 7em; width: 7em; object-fit: cover; float: left; margin: 0 1e
 
 img + em { font-size: 0.8rem; text-align: center; display: block; margin: 0.5em auto; font-weight: normal; }
 
-iframe { height: auto; max-width: 100%; padding: 0 5%; display: block; margin: 0 auto; }
+iframe { height: 290px; max-width: 90%; padding: 0 5%; display: block; margin: 0 auto; }
 
 a { color: #4478A6; text-decoration: none; }
 

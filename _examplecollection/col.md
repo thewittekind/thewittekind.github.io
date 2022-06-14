@@ -1,18 +1,13 @@
 ---
 layout: post
-title: How to create collections
+title: need update old performance
 ---
 
-This file is part of a collection.
-Use 
-```
-collections:
-  collectionName:
-    output: true
-```
-in your `_config.yml` to generate a collection. Entries in the collection must be put in a folder with the same `_collectionName` as in the config (don't forget the underscore).
+[some descriptions]
 
-If you want to use a different title instead of `collectionName` you can provide 
-```
-    title: "Collections"
-```
+[youtube video]
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lAzQjr8mV48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+ &nbsp;

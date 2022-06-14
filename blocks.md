@@ -1,8 +1,21 @@
 ---
 layout: block
-title: Blocks & Posts
+title: about wittekind the band 
 ---
 
-* use markdown with layout **block** to create blocks like this one.
-* use markdown with layout **post** to create posts, which will be listed below.
+"***genre***"  
+- {hard, indie, blues} rock
+
+"***member***"  
+- `vocal & frontman`: yuqing li
+- `vocal (backing)`: wenling zhou & tianyi sun
+- `guitar lead`: dongli zhang
+- `guitar rhythm`: zonglin li
+- `bass`: wanyu wu
+- `drum`: linke zhu
+- `keyboard`: yuli wu
+  
+"***alumni***"  
+- `drum`: tongxin qin
+- `keyboard`: junjie liang
 
