@@ -1,6 +1,6 @@
 ---
 layout: block
-title: about wittekind the band 
+title:
 ---
 
 "***genre***"  
