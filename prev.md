@@ -7,12 +7,10 @@ title: about wittekind the band
 
 "***member***"  
 - `vocal & frontman`: yuqing li
-- `vocal (backing)`:
-  -  wenling zhou 
-  -  tianyi sun
+- `vocal`: wenling zhou & tianyi sun
+- `bass`: wanyu wu
 - `guitar lead`: dongli zhang
 - `guitar rhythm`: zonglin li
-- `bass`: wanyu wu
 - `drum`: linke zhu
 - `keyboard`: yuli wu
   
