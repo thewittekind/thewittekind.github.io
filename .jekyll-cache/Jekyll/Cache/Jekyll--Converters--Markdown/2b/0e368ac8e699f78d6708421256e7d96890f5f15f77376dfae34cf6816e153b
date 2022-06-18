@@ -1,4 +1,5 @@
-I"+<p>“<strong><em>genre</em></strong>”</p>
+I",<p></p>
+<p>“<strong><em>genre</em></strong>”</p>
 <ul>
   <li>{hard, indie, alternative} rock</li>
 </ul>
@@ -14,4 +15,11 @@
   <li><code class="language-plaintext highlighter-rouge">keyboard</code>: yuli wu</li>
 </ul>
 
+<!--more-->
+
+<p>“<strong><em>alumni</em></strong>”</p>
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">drum</code>: tongxin qin</li>
+  <li><code class="language-plaintext highlighter-rouge">keyboard</code>: junjie liang</li>
+</ul>
 :ET
