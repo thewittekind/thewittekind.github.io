@@ -13,6 +13,6 @@ excerpt_separator: <!--more-->
 page_excerpts: true
 
 collections:
-  examplecollection:
+  archive:
     output: true
     title: "archive"
