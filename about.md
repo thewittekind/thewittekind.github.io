@@ -3,11 +3,11 @@ layout: page
 title: about the wittekind the band
 ---
 
-"***genre***"  
+"***genres***"  
 
 - {hard, indie, alternative} rock
 
-"***member***"  
+"***members***"  
 
 - `vocal & frontman`: yuqing li
 - `vocal`: wenling zhou & tianyi sun
