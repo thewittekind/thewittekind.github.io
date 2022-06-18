@@ -21,7 +21,7 @@ layout: default
     {% if page.layout == 'block' and page.content contains site.excerpt_separator %}
     <div class="box">
         <h3>{{ page.title }}</h3>
-        {{ page.excerpt }}
+        {{ page.excerpt | markdownify  }}
         <p><a href="{{ page.url | relative_url }}">Read more</a></p>
     </div>
     {% endif %}
