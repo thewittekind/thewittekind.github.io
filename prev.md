@@ -1,9 +1,10 @@
 ---
 layout: block
-title: about wittekind the band
+title: about the wittekind the band
 ---
 
-"***genre***"  {hard, indie, blues} rock
+"***genre***"  
+- {hard, indie, alternative} rock
 
 "***member***"  
 - `vocal & frontman`: yuqing li
@@ -13,7 +14,9 @@ title: about wittekind the band
 - `guitar rhythm`: zonglin li
 - `drum`: linke zhu
 - `keyboard`: yuli wu
-  
+
+<!--more-->
+
 "***alumni***"  
 - `drum`: tongxin qin
 - `keyboard`: junjie liang

@@ -53,6 +53,27 @@ layout: default
             {% endfor %}
         </ul>
     </div>
+
+
+    {% for page in site.pages %}
+    {% if page.layout == 'contact' %}
+    {% unless page.content contains site.excerpt_separator %}
+    <div class="box">
+        <h3>{{ page.title }}</h3>
+        {{ page.content | markdownify }}
+    </div>
+    {% endunless %}
+    {% endif %}
+    {% if page.layout == 'contact' and page.content contains site.excerpt_separator %}
+    <div class="box">
+        <h3>{{ page.title }}</h3>
+        {{ page.excerpt }}
+        <p><a href="{{ page.url | relative_url }}">Read more</a></p>
+    </div>
+    {% endif %}
+    {% endfor %}
+
+    (c) thewittekind. <i>last updated on {% last_modified_at %d %b %Y %}.<i/>
 </main>
 
 
