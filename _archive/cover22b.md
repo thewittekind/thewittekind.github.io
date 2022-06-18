@@ -5,15 +5,15 @@ title: 降雨機率 - 甜約翰
 
 live recorded 16th jan 2022.
 
-Vocal: Yuqing Li
-Chorus: Tianyi Sun, Wenling Zhou
-Guitar: Dongli Zhang, Zonglin Li
-Keyboard: Junjie Liang
-Bass: Qinyu Geng
-Drum: Tongxin Qin
+- Vocal: Yuqing Li
+- Chorus: Tianyi Sun, Wenling Zhou
+- Guitar: Dongli Zhang, Zonglin Li
+- Keyboard: Junjie Liang
+- Bass: Qinyu Geng
+- Drum: Tongxin Qin
 
-Cameras, Sound Recording, Editing: Daniel Gronsfeld
-Additional Camera: Teman Hu
+- Cameras, Sound Recording, Editing: Daniel Gronsfeld
+- Additional Camera: Teman Hu
 
 [you will watch via youtube]
 
