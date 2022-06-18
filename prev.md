@@ -4,7 +4,6 @@ title: about the wittekind the band
 ---
 "***genre***"  
 - {hard, indie, alternative} rock
-
 "***member***"  
 - `vocal & frontman`: yuqing li
 - `vocal`: wenling zhou & tianyi sun
@@ -13,6 +12,7 @@ title: about the wittekind the band
 - `guitar rhythm`: zonglin li
 - `drum`: linke zhu
 - `keyboard`: yuli wu
+  
 <!--more-->
 
 "***alumni***"  
