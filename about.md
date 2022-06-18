@@ -1,5 +1,5 @@
 ---
-layout: block
+layout: page
 title: about the wittekind the band
 ---
 
@@ -17,4 +17,7 @@ title: about the wittekind the band
 - `drum`: linke zhu
 - `keyboard`: yuli wu
   
-[Read more](https://thewittekind.github.io/about)
+"***alumni***"  
+
+- `drum`: tongxin qin
+- `keyboard`: junjie liang
