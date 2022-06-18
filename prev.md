@@ -2,7 +2,7 @@
 layout: block
 title: about the wittekind the band
 ---
-
+<p>
 "***genre***"  
 
 - {hard, indie, alternative} rock
@@ -15,7 +15,7 @@ title: about the wittekind the band
 - `guitar lead`: dongli zhang
 - `guitar rhythm`: zonglin li
 - `drum`: linke zhu
-- `keyboard`: yuli wu
+- `keyboard`: yuli wu </p>
 
 <!--more-->
 
