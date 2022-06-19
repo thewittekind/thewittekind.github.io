@@ -22,3 +22,8 @@ title: about the wittekind the band
 - `drum`: tongxin qin
 - `keyboard`: junjie liang
 - `saxophone`: bo wang
+- `bass`: yuna liu
+- `guitar`: shuo yu
+- `bass`: zhichang wang
+- `drum`: chao yang
+- `drum`: tong liu
