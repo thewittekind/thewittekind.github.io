@@ -2,7 +2,8 @@
 layout: contact
 title: contact
 ---
-- Donate a [beer](https://paypal.me/zdongli) 🍻
+Donate a [beer](https://paypal.me/zdongli) 🍻
+
 <!--more-->
 - 合作微信 - LYQ1069216298
 - 微信视频号 - TheWittekind
