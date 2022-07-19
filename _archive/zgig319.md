@@ -1,6 +1,6 @@
 ---
 layout: post
-title: jul 2019
+title: jul 2019 @ aachen
 ---
 
 performed on 27th jul 2019.

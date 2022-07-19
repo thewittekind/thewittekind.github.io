@@ -1,6 +1,6 @@
 ---
 layout: post
-title: jul 2022
+title: jul 2022 @ frankfurt
 ---
 
  @ 2nd jul 2022, hauptwache
