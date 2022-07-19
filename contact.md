@@ -17,8 +17,9 @@ title: contact
 <br>
 
 - What? You wanna donate another [beer](https://paypal.me/zdongli) 🍻?
+<br><br>
 
-![qrwct](/assets/qrwct.jpg) *微信赞赏码*
+![drawing](/assets/qrwct.jpg) *微信赞赏码*
 
 <br>
 

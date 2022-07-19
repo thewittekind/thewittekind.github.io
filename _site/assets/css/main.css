@@ -32,4 +32,6 @@ a { color: #4478A6; text-decoration: none; }
 
 a:hover { color: #26445e; border-bottom: 1px solid #26445e; }
 
+img[alt=drawing] { width: 120px; }
+
 /*# sourceMappingURL=main.css.map */
