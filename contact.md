@@ -18,6 +18,8 @@ title: contact
 
 - What? You wanna donate another [beer](https://paypal.me/zdongli) 🍻?
 
+![qrwct](/assets/qrwct.jpg) *微信赞赏码*
+
 <br>
 
 (c) thewittekind.
