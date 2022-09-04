@@ -15,12 +15,11 @@ title: about the wittekind the band
 - `guitar lead`: dongli zhang
 - `guitar rhythm`: zonglin li
 - `drum`: linke zhu
-- `keyboard`: yuli wu
+- `keyboard`: junjie liang & yuli wu
   
 "***alumni***"  
 
 - `drum`: tongxin qin
-- `keyboard`: junjie liang
 - `saxophone`: bo wang
 - `bass`: yuna liu
 - `guitar`: shuo yu
