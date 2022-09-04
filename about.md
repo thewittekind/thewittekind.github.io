@@ -13,7 +13,7 @@ title: about the wittekind the band
 - `vocal`: wenling zhou & tianyi sun
 - `bass`: wanyu wu
 - `guitar lead`: dongli zhang
-- `guitar rhythm`: zonglin li
+- `guitar rhythm`: zonglin li & qiwen xu
 - `drum`: linke zhu
 - `keyboard`: junjie liang & yuli wu
   
