@@ -6,9 +6,9 @@ title: next gig
 
  @ 6th jan 2023, eta 19:30
 
- @ aula, hauptgebäude, rwth
+ @ aula, hauptgebäude
 
- @ templergraben 55, aachen
+ @ rheinisch-westfälische technische hochschule aachen
 
  "***repertoire***"
 
