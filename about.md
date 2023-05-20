@@ -11,7 +11,7 @@ title: about the wittekind the band
 
 - `vocal & frontman`: yuqing li
 - `vocal`: wenling zhou & tianyi sun
-- `bass`: xiaojun & han xu
+- `bass`: xiaojun & han hu
 - `guitar`: dongli zhang & yulin niu
 - `drum`: linke zhu & youran miao
 - `keyboard`: junjie liang & yuli wu
